@@ -3,5 +3,8 @@
   "main": "./jquery.touchSwipe.js",
   "repository": "Blackbam1337/TouchSwipe-Jquery-Plugin",
   "homepage": "https://github.com/Blackbam1337/TouchSwipe-Jquery-Plugin",
+  "scripts": [
+    "jquery.touchSwipe.js"
+  ],
   "dependencies": {}
 }
